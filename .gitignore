@@ -1,0 +1,16 @@
+**/.so
+matlab/
+java/
+**/.venv
+
+.ropeproject
+**/__pycache__
+
+# individual shared object files
+libcar.so
+libController.so
+libCppCar.so
+libCppController.so
+libCppDriver.so
+libdriver.so
+libgeneric_robot_window.so
